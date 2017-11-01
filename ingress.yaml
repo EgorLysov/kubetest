@@ -4,5 +4,5 @@ metadata:
   name: test-ingress
 spec:
   backend:
-    serviceName: testsvc
-    servicePort: 80
+    serviceName: nginx-ing-ctrl-5b5c86b6fc
+    servicePort: 443
